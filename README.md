@@ -1,4 +1,4 @@
-# Data-Visaulation-Seaborn-and-Plotly
+# Data-Visualation-Seaborn-and-Plotly
 
 In the role of a data scientist, most of the time is usually spent on the data aspect. This includes data visualisation as well as it can help us to present data in a much more aesthetically beautiful way.  
 
